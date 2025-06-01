@@ -1,5 +1,5 @@
 # Performance Monitoring System
-KELOMPOK 6
+# KELOMPOK 6
 A client-server system for monitoring and analyzing computer performance metrics in a university computer lab environment.
 
 ## Features
