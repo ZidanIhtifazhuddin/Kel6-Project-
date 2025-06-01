@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Yudha/projectcpp/build/cmake_install.cmake",
+		"D:/Yudha/projectcpp/build/server/cmake_install.cmake",
+		"D:/Yudha/projectcpp/build/client/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

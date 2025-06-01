@@ -1,0 +1,5 @@
+D:/Yudha/projectcpp/build/CMakeFiles/common.dir
+D:/Yudha/projectcpp/build/CMakeFiles/ALL_BUILD.dir
+D:/Yudha/projectcpp/build/CMakeFiles/ZERO_CHECK.dir
+D:/Yudha/projectcpp/build/server/CMakeFiles/perfmon_server.dir
+D:/Yudha/projectcpp/build/client/CMakeFiles/perfmon_client.dir
